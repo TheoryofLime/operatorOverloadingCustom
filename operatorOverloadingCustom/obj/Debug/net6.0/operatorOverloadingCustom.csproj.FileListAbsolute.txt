@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\bin\Debug\net6.0\operatorOverloadingCustom.exe
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\bin\Debug\net6.0\operatorOverloadingCustom.deps.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\bin\Debug\net6.0\operatorOverloadingCustom.runtimeconfig.json
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\bin\Debug\net6.0\operatorOverloadingCustom.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\bin\Debug\net6.0\operatorOverloadingCustom.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\obj\Debug\net6.0\operatorOverloadingCustom.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\obj\Debug\net6.0\operatorOverloadingCustom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\obj\Debug\net6.0\operatorOverloadingCustom.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\obj\Debug\net6.0\operatorOverloadingCustom.AssemblyInfo.cs
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\obj\Debug\net6.0\operatorOverloadingCustom.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\obj\Debug\net6.0\operatorOverloadingCustom.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\obj\Debug\net6.0\refint\operatorOverloadingCustom.dll
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\obj\Debug\net6.0\operatorOverloadingCustom.pdb
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\obj\Debug\net6.0\operatorOverloadingCustom.genruntimeconfig.cache
+C:\Users\user\Desktop\Storage\Work\cit195\assignment9\operatorOverloadingCustom\operatorOverloadingCustom\obj\Debug\net6.0\ref\operatorOverloadingCustom.dll
